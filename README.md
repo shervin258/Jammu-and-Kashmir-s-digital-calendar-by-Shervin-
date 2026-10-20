@@ -1,1 +1,21 @@
-# Jammu-and-Kashmir-s-digital-calendar-by-Shervin-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jammu & Kashmir Tourism</title>
+</head>
+<body style="font-family:Arial;background:#f0f8ff;">
+<header style="background:#164e45;color:white;text-align:center;padding:20px;"><h1>Jammu & Kashmir - Paradise on Earth</h1><p>Explore the beauty, culture and traditions of Jammu & Kashmir</p></header>
+<nav style="background:#d5eee5;padding:15px;text-align:center;"><a href="index.html">Places to Visit</a> | <a href="shopping.html">Shopping</a> | <a href="contact.html">Contact Us</a></nav>
+<main style="padding:20px;"><h2>Welcome to Jammu & Kashmir</h2><p>Jammu & Kashmir is famous for its snow-covered mountains, lakes, gardens and valleys.</p><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dal_Lake_Srinagar.jpg" alt="Dal Lake" width="300">
+<h2>Popular Places to Visit</h2><h3>Srinagar</h3><p>Famous for Dal Lake, houseboats and Mughal gardens.</p><h3>Gulmarg</h3><p>Known for snowy mountains, skiing and the gondola cable car.</p><h3>Pahalgam</h3><p>A beautiful valley with rivers and green scenery.</p><h3>Jammu</h3><p>Known for temples and the Vaishno Devi shrine.</p><h2>Why Visit?</h2><ul><li>Beautiful mountain scenery</li><li>Local food and culture</li><li>Historic gardens and monuments</li><li>Traditional handicrafts</li></ul></main>
+<footer style="background:#164e45;color:white;text-align:center;padding:10px;">Jammu & Kashmir Tourism</footer>
+</body></html>
+
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Shopping in Jammu & Kashmir</title></head>
+<body style="font-family:Arial;background:#fffaf0;"><header style="background:#795548;color:white;text-align:center;padding:20px;"><h1>Shopping in Jammu & Kashmir</h1><p>Discover Kashmiri art and handicrafts</p></header><nav style="padding:15px;text-align:center;background:#f3e1d2;"><a href="index.html">Places to Visit</a> | <a href="shopping.html">Shopping</a> | <a href="contact.html">Contact Us</a></nav><main style="padding:20px;"><h2>Traditional Products</h2><h3>Pashmina Shawls</h3><p>Famous for softness, warmth and fine craftsmanship.</p><h3>Kashmiri Carpets</h3><p>Admired for detailed patterns and colourful designs.</p><h3>Papier-Mache Crafts</h3><p>Handmade decorative objects with colourful artwork.</p><h3>Walnut Wood Carving</h3><p>Beautiful carvings on boxes, furniture and decorations.</p><h3>Kashmiri Saffron</h3><p>Valued for its rich colour and aroma.</p><h2>Shopping Destinations</h2><ol><li>Lal Chowk, Srinagar</li><li>Dal Lake markets</li><li>Badshah Chowk, Srinagar</li><li>Raghunath Bazaar, Jammu</li></ol><h2>Support Local Artisans</h2><p>Buying local handicrafts helps preserve traditional skills, support livelihoods and promote SDG 8: Decent Work and Economic Growth.</p></main><footer style="background:#795548;color:white;text-align:center;padding:10px;">Celebrate Kashmiri Art and Culture</footer></body></html>
+
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Contact Us</title></head><body style="font-family:Arial;background:#f0f8ff;"><header style="background:#164e45;color:white;text-align:center;padding:20px;"><h1>Contact Us</h1><p>We would love to hear from you!</p></header><nav style="padding:15px;text-align:center;background:#d5eee5;"><a href="index.html">Places to Visit</a> | <a href="shopping.html">Shopping</a> | <a href="contact.html">Contact Us</a></nav><main style="padding:20px;"><h2>Get in Touch</h2><form action="#" method="get"><label for="name">Full Name:</label><br><input id="name" name="name" type="text" required><br><br><label for="email">Email Address:</label><br><input id="email" name="email" type="email" required><br><br><label for="subject">Subject:</label><br><input id="subject" name="subject" type="text" required><br><br><label for="message">Message:</label><br><textarea id="message" name="message" rows="5" cols="35" required></textarea><br><br><input type="submit" value="Submit"> <input type="reset" value="Clear"></form></main><footer style="background:#164e45;color:white;text-align:center;padding:10px;">Thank you for visiting!</footer></body></html>
